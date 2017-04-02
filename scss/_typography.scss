@@ -44,10 +44,9 @@ $font-size-base: 14px; //button   //hover
 //$headings-color;
 //$dark-gray; // footer
 p {
-    'Righteous',
-    cursive: $font-family-base !important;
-    'Barrio',
-    cursive: $font-family-headings !important;
+//    'Righteous' cursive; $font-family-base !important;
+//    'Barrio',
+    'Righteous', cursive; :$font-family-headings !important;
     500: $headings-font-weight;
     100%: $headings-line-height;
     #fff: $headings-color;
